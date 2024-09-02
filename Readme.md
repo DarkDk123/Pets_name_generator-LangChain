@@ -10,6 +10,11 @@ I'm just starting to learn LangChain from tutorials, this is the first & very si
 <img src="ui.png" width=75%>
 
 ## How to run
+* ### Setup Environment variables!
+
+   Create `.env` environment variable file like [Example .env](./example.env)
+
+* ### Installation & Running
 
 1. Clone this [repository.]()
 2. Install the requirements in a separate `python env`.    
